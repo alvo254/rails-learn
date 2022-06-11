@@ -31,3 +31,9 @@ rails g controller home index
 
 partials have an '_' - used to break into section header, nav ,footer
 
+CRUD
+CRUD stands for Create, Read, Update and Delete data in a database. Active Record automatically allows an application to read and manipulate data stored within tables.
+
+use scaffles to create crud
+rails g scaffold friends first_name:<data type> lastname:string email:string phone:string twitter:string
+
