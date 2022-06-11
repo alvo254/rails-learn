@@ -29,3 +29,5 @@ Use rail generator
 erb embeded ruby
 rails g controller home index
 
+partials have an '_' - used to break into section header, nav ,footer
+
