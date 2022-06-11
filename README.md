@@ -26,5 +26,6 @@ Things you may want to cover:
 MVC controller - model view controller
 
 Use rail generator
+erb embeded ruby
 rails g controller home index
 
